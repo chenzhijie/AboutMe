@@ -1,6 +1,6 @@
 Hello friends
 
-I am a blockchain development. Focus on Golang, Solidity and JS Full Stack
+I am a blockchain developer. Focus on Golang, Solidity and JS Full Stack
 
 ![Chenzhijie's github stats](https://github-readme-stats.vercel.app/api?username=chenzhijie&show_icons=true&hide_title=true&card_width=450)
 
